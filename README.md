@@ -1,3 +1,15 @@
+# To-do list 
+In this app I have created a simple to-do list application where we can add and delete the tasks that we assign.
+
+## Technologies used
+
+React.js
+
+## Concepts Applied
+
+useReducer Hook and the createContext
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
